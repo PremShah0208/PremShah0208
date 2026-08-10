@@ -15,6 +15,15 @@
 
 ## 🛠️ Technical Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)&nbsp;
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 **Programming:** C, C++, Python, Java, SQL
 
 **Hardware & RTL:** Verilog, SystemVerilog, FPGA, RTL Design, Digital Systems, SoC Design
