@@ -42,25 +42,68 @@
 
 ### Assistive Voice Glasses for Navigation Support
 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Zero%202%20W-A22846?style=flat&logo=raspberrypi&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Picamera2](https://img.shields.io/badge/Picamera2-555555?style=flat)
+
 Developed a low-cost wearable navigation-support prototype using a Raspberry Pi Zero 2 W, Camera Module V2, Python, and Embedded Linux. Implemented camera-based environmental analysis, audio feedback, calibration, testing, and standalone Linux service operation.
+
+<br>
 
 ### Fixed-Point Matrix Multiplication
 
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat)&nbsp;
+![Synopsys VCS](https://img.shields.io/badge/Synopsys%20VCS-333333?style=flat)&nbsp;
+![DVE](https://img.shields.io/badge/DVE-666666?style=flat)
+
 Designed and verified a 3×3 fixed-point matrix multiplication system using Verilog and SystemVerilog. Implemented Q-format arithmetic and validated functionality using Synopsys VCS, DVE, testbenches, and waveform debugging.
+
+<br>
 
 ### 5-Stage RISC Pipeline Processor
 
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
+![Digital Design](https://img.shields.io/badge/Digital%20Design-0A66C2?style=flat)&nbsp;
+![Pipelining](https://img.shields.io/badge/Pipelining-6A5ACD?style=flat)&nbsp;
+![Simulation](https://img.shields.io/badge/Simulation-444444?style=flat)
+
 Implemented and simulated a 5-stage pipelined processor while exploring datapath design, control logic, instruction execution, and pipeline behavior.
+
+<br>
 
 ### FPGA & SoC Development
 
+![FPGA](https://img.shields.io/badge/FPGA-0A66C2?style=flat)&nbsp;
+![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat)&nbsp;
+![Vivado](https://img.shields.io/badge/Vivado-F28C28?style=flat)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 Worked with FPGA and SoC development platforms using Verilog/SystemVerilog, Vivado, Xilinx ISE, simulation, hardware implementation, and Python-based hardware interaction.
+
+<br>
 
 ### Leukemia Blood Cell Classification
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)&nbsp;
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-6A5ACD?style=flat)&nbsp;
+![Image Classification](https://img.shields.io/badge/Image%20Classification-0A66C2?style=flat)
+
 Developed a transfer-learning image classification workflow using TensorFlow and Keras with VGG16, ResNet50, and EfficientNetB0 to classify blood-cell images across multiple classes.
 
+<br>
+
 ### Used Car Price Prediction
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=flat)&nbsp;
+![Regression](https://img.shields.io/badge/Regression-0A66C2?style=flat)&nbsp;
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)&nbsp;
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-444444?style=flat)
 
 Built and evaluated machine-learning models for vehicle price prediction using large automotive datasets, feature analysis, regression techniques, and model-performance metrics.
 
@@ -78,4 +121,4 @@ Built and evaluated machine-learning models for vehicle price prediction using l
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/prem-shah08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-shah08)
