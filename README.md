@@ -64,7 +64,7 @@ Designed and verified a 3×3 fixed-point matrix multiplication system using Veri
 
 <br>
 
-### 5-Stage RISC Pipeline Processor
+### [5-Stage RISC Pipeline](https://github.com/PremShah0208/5-Stage-RISC-Pipeline)
 
 ![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
 ![Digital Design](https://img.shields.io/badge/Digital%20Design-0A66C2?style=flat)&nbsp;
