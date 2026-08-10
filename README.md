@@ -53,7 +53,7 @@ Developed a low-cost wearable navigation-support prototype using a Raspberry Pi 
 
 <br>
 
-### Fixed-Point Matrix Multiplication
+### [Fixed-Point Matrix Multiplication](https://github.com/PremShah0208/Fixed-Point-Matrix-Multiplication)
 
 ![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat)&nbsp;
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat)&nbsp;
