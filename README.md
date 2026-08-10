@@ -42,7 +42,7 @@ I enjoy building, testing, and debugging systems that bring hardware and softwar
 
 ## 📌 Featured Projects
 
-### Assistive Voice Glasses for Navigation Support
+### [Assistive Voice Glasses for Navigation Support](https://github.com/PremShah0208/Assistive-Voice-Glasses)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Zero%202%20W-A22846?style=flat&logo=raspberrypi&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
