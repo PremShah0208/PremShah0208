@@ -2,6 +2,8 @@
 
 ### Computer Engineering Graduate | Embedded Systems | Digital Hardware | FPGA/RTL | Hardware Validation
 
+I enjoy building, testing, and debugging systems that bring hardware and software together.
+
 ---
 
 ## 👨‍💻 About Me
